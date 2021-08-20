@@ -20,3 +20,45 @@
 
 2021-08-20T09:31:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\core\sidebar-manager.php na linha 12
 
+2021-08-20T11:25:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\widgets\tab\tab.php na linha 7
+
+p na linha 7
+
+
+
+
+
+2021-08-20T11:25:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php na linha 93
+
+2021-08-20T11:25:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\modules\onepage-scroll\extend-controls.php na linha 7
+
+2021-08-20T11:25:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\modules\widget-builder\api\common.php na linha 4
+
+2021-08-20T11:25:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\modules\onepage-scroll\extend-controls.php na linha 7
+
+2021-08-20T11:25:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\autoloader.php na linha 53
+
+2021-08-20T11:25:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\libs\pro-label\admin-notice.php na linha 3
+
+2021-08-20T11:26:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Schemas\CartShippingRateSchema.php na linha 11
+
+2021-08-20T11:26:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\ReportsSync.php na linha 8
+
+2021-08-20T11:26:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php na linha 293
+
+2021-08-20T11:26:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php na linha 293
+
+
+
+2021-08-20T11:26:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php na linha 293
+
+2021-08-20T11:26:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\elements.php na linha 4
+
+2021-08-20T11:26:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php na linha 293
+
+2021-08-20T11:26:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\core\class-astra-admin-settings.php na linha 14
+
+2021-08-20T11:26:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\widgets\blog-posts\blog-posts.php na linha 7
+
+2021-08-20T11:26:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\widgets\team\team.php na linha 7
+
