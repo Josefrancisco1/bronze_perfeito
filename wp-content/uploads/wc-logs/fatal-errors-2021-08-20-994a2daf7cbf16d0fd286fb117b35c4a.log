@@ -62,3 +62,15 @@ p na linha 7
 
 2021-08-20T11:26:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\widgets\team\team.php na linha 7
 
+2021-08-20T12:14:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\modules\social\module.php na linha 7
+
+2021-08-20T12:15:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Server.php na linha 10
+
+2021-08-20T12:16:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\TrackingOptIn.php na linha 10
+
+2021-08-20T12:18:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\class-astra-mobile-header.php na linha 9
+
+2021-08-20T12:26:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\controls\number.php na linha 6
+
+2021-08-20T12:26:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\functions.php na linha 252
+
