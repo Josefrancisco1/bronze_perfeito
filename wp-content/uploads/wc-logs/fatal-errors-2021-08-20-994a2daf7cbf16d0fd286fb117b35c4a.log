@@ -18,3 +18,5 @@
 
 2021-08-20T09:07:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\blocks.php na linha 203
 
+2021-08-20T09:31:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\core\sidebar-manager.php na linha 12
+
