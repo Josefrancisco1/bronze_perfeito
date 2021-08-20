@@ -1,0 +1,8 @@
+2021-08-16T10:04:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\template.php na linha 663
+
+2021-08-16T10:20:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\src\integrations\exclude-oembed-cache-post-type.php na linha 14
+
+2021-08-16T15:00:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\wordpress-widgets.php na linha 4
+
+2021-08-16T16:55:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\schema\class-astra-organization-schema.php na linha 12
+

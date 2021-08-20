@@ -1,0 +1,10 @@
+2021-08-06T07:43:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\src\integrations\third-party\bbpress.php na linha 12
+
+2021-08-06T07:43:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ReviewsByCategory.php na linha 7
+
+2021-08-06T07:46:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-report-sales-v1-controller.php na linha 13
+
+2021-08-06T08:32:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\inc\sitemaps\class-sitemaps-cache.php na linha 13
+
+2021-08-06T08:34:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php na linha 18
+

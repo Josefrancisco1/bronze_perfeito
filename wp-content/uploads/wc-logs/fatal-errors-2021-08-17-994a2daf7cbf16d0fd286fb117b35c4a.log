@@ -1,0 +1,119 @@
+2021-08-17T08:13:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\l10n.php na linha 1169
+
+2021-08-17T08:16:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\modules\theme-elements\widgets\post-comments.php na linha 9
+
+2021-08-17T08:22:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\widgets\button\button.php na linha 7
+
+2021-08-17T08:52:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\class-wc-regenerate-images-request.php na linha 12
+
+2021-08-17T08:56:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\wp-db.php na linha 2056
+
+2021-08-17T08:56:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\wp-db.php na linha 2056
+
+2021-08-17T09:54:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\widgets\ninja-forms\ninja-forms.php na linha 7
+
+2021-08-17T09:54:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\modules\onepage-scroll\init.php na linha 4
+
+2021-08-17T09:54:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\astra-sites\inc\importers\wxr-importer\class-wxr-importer.php na linha 17
+
+2021-08-17T09:59:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\modules\global-widget\module.php na linha 10
+
+2021-08-17T10:26:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Utilities\SingletonTrait.php na linha 13
+
+2021-08-17T10:40:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\src\integrations\front-end\backwards-compatibility.php na linha 12
+
+2021-08-17T10:41:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\wp-db.php na linha 2056
+
+2021-08-17T10:43:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php na linha 7
+
+2021-08-17T10:43:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\src\helpers\date-helper.php na linha 12
+
+2021-08-17T10:44:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\src\actions\indexing\post-link-indexing-action.php na linha 11
+
+2021-08-17T10:44:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-filesystem-direct.php na linha 173
+
+2021-08-17T10:45:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php na linha 293
+
+2021-08-17T10:52:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\wp-db.php na linha 2056
+
+2021-08-17T10:53:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\plugin.php na linha 139
+
+2021-08-17T10:53:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\modules\screenshots\module.php na linha 7
+
+2021-08-17T10:53:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\inc\sitemaps\class-sitemaps-router.php na linha 11
+
+2021-08-17T10:54:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\builder\type\header\menu\dynamic-css\dynamic.css.php na linha 9
+
+2021-08-17T10:57:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-payment-gateways-v2-controller.php na linha 19
+
+2021-08-17T10:57:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\modules\theme-builder\documents\header-footer-base.php na linha 6
+
+2021-08-17T10:57:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\class-wp-theme.php na linha 1203
+
+2021-08-17T10:58:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\addons\transparent-header\classes\dynamic-css\dynamic.css.php na linha 8
+
+2021-08-17T10:58:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\addons\transparent-header\classes\dynamic-css\dynamic.css.php na linha 8
+
+2021-08-17T10:58:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\addons\transparent-header\classes\dynamic-css\dynamic.css.php na linha 8
+
+2021-08-17T10:59:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\builder\type\header\primary-header\dynamic-css\dynamic.css.php na linha 9
+
+2021-08-17T10:59:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\builder\type\header\button\dynamic-css\dynamic.css.php na linha 9
+
+2021-08-17T10:59:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\builder\type\header\html\dynamic-css\dynamic.css.php na linha 9
+
+2021-08-17T10:59:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\builder\type\header\search\dynamic-css\dynamic.css.php na linha 9
+
+2021-08-17T10:59:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\builder\type\header\widget\dynamic-css\dynamic.css.php na linha 9
+
+2021-08-17T10:59:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\builder\type\header\widget\dynamic-css\dynamic.css.php na linha 9
+
+2021-08-17T10:59:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\builder\type\header\widget\dynamic-css\dynamic.css.php na linha 9
+
+2021-08-17T10:59:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\builder\type\header\mobile-trigger\dynamic-css\dynamic.css.php na linha 9
+
+2021-08-17T10:59:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\builder\type\footer\menu\dynamic-css\dynamic.css.php na linha 9
+
+2021-08-17T10:59:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\inc\sitemaps\class-post-type-sitemap-provider.php na linha 13
+
+2021-08-17T10:59:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php na linha 293
+
+2021-08-17T10:59:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\modules\forms\fields\date.php na linha 7
+
+2021-08-17T10:59:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\plugin.php na linha 139
+
+2021-08-17T10:59:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\autoloader.php na linha 53
+
+2021-08-17T10:59:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\widgets\image-comparison\image-comparison.php na linha 7
+
+2021-08-17T11:00:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\block-patterns\large-header-button.php na linha 9
+
+2021-08-17T11:00:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\src\presenters\breadcrumbs-presenter.php na linha 10
+
+2021-08-17T11:01:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\formatting.php na linha 234
+
+2021-08-17T11:03:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\inc\wpseo-functions.php na linha 8
+
+2021-08-17T11:04:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\widgets\image-comparison\image-comparison.php na linha 7
+
+2021-08-17T15:10:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\widgets\image-box\image-box.php na linha 8
+
+
+inha 7
+
+2021-08-17T15:11:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\wp-db.php na linha 2056
+
+2021-08-17T15:11:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\wp-db.php na linha 2056
+
+2021-08-17T15:14:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php na linha 163
+
+2021-08-17T16:26:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\wp-db.php na linha 2056
+
+2021-08-17T16:28:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\src\helpers\indexing-helper.php na linha 18
+
+2021-08-17T16:32:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\inc\class-wpseo-shortlinker.php na linha 11
+
+2021-08-17T16:43:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\version.php na linha 16
+
+2021-08-17T16:44:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\wp-db.php na linha 2056
+

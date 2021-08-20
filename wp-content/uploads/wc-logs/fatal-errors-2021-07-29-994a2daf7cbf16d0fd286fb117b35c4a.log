@@ -1,0 +1,6 @@
+2021-07-29T07:46:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\builder\type\base\dynamic-css\social\class-astra-social-component-dynamic-css.php na linha 13
+
+2021-07-29T07:57:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-admin\includes\file.php na linha 1957
+
+2021-07-29T07:57:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\files\assets\svg\svg-handler.php na linha 6
+

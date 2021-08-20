@@ -1,0 +1,12 @@
+2021-07-30T15:51:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\safe-mode\module.php na linha 10
+
+2021-07-30T15:51:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\astra-sites\inc\importers\wxr-importer\class-wp-importer-logger.php na linha 28
+
+2021-07-30T15:54:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\wp-db.php na linha 2056
+
+2021-07-30T16:11:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\common\modules\finder\template.php na linha 5
+
+2021-07-30T16:13:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\Analytics.php na linha 15
+
+2021-07-30T17:07:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php na linha 441
+

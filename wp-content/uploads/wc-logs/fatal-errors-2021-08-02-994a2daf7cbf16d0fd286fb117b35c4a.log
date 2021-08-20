@@ -1,0 +1,6 @@
+2021-08-02T13:15:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\plugins\wordpress-seo\src\helpers\environment-helper.php na linha 8
+
+2021-08-02T13:43:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-content\themes\astra\template-parts\header\builder\mobile-header-row.php na linha 8
+
+2021-08-02T13:44:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\wordpress\wp-includes\blocks.php na linha 199
+
